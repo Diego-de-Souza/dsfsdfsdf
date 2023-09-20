@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 13 12:31:36 2023
-
-@author: lucas
-"""
 import funcao as f
 import math as m
 
@@ -32,3 +26,4 @@ def decimal_places(number):
     return 0
         
     
+print(funcao_bolzano_newruf(1,1E-05))
